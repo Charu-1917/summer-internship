@@ -2,8 +2,8 @@ body {
   margin: 5;
   padding:5;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background: linear-gradient(135deg, #dfe9f3, #ffffff));
- 
+  background: linear-gradient(135deg, #dfe9f3, #ffffff);
+ /* Gradient background */
   color: #ffffff;
   display: flex;
   justify-content: center;
@@ -74,4 +74,3 @@ p {
 .social-links a:hover {
   background-color: #6a11cb;
 }
-
